@@ -1,4 +1,4 @@
-# Python | Java | Python | DSA | Web Development | Full Stack Developer
+# Java | Python | DSA | AIML | Web Development | Full Stack Developer
 
 ## Overview
 
