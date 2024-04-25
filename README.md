@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub repository! I'm passionate about Artificial Intelligence and Machine Learning and possess expertise in Java, Python, Data Structures and Algorithms, as well as Web Development. I'm currently honing my skills in Advanced Full Stack Development and Advanced AI & ML techniques. I'm eager to collaborate with like-minded individuals on various problem-solving projects to further enhance my skills and contribute to exciting projects in the field of AI & ML.
+Welcome to my GitHub repository! I'm passionate about Artificial Intelligence and Machine Learning and possess expertise in Java, Python, Data Structures and Algorithms, as well as Web Development. I'm currently honing my skills in Advanced Full Stack Development and Advanced AI & ML techniques. I'm eager to collaborate with like-minded individuals on various problem-solving projects to further enhance my skills and contribute to exciting projects in the field of WebDevelopment and AI & ML.
 
 ## About Me
 
