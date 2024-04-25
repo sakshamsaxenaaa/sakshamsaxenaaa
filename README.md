@@ -15,15 +15,15 @@ I am an enthusiastic tech professional with a strong background in Java, Python,
 - *Web Development:* HTML, CSS, JavaScript, React.
 - *Database Management:* MySQL, MongoDB
 - *Full Stack Development:* Learning MERN stack (MongoDB, Express.js, React, Node.js)
-- *Machine Learning:* Supervised & Unsupervised Learning, Neural Networks, TensorFlow, Scikit-learn
-- *Artificial Intelligence:* Natural Language Processing, Computer Vision
+- *Machine Learning:* Working on Supervised & Unsupervised Learning
+- *Artificial Intelligence:* Natural Language Processing
 
 ## Learning Goals
 
 I am currently focusing on acquiring advanced skills in Full Stack Development and AI & ML. My learning goals include:
 
-- Exploring state-of-the-art AI & ML models and algorithms
 - Implementing advance skills of webDevelopment to create appealing websites
+- Exploring state-of-the-art AI & ML models and algorithms
 - Building complex and scalable web applications
 - Enhancing my understanding of deployment
 
