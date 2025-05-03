@@ -47,6 +47,6 @@ Implemented using the advance technologies of HTML, CSS, JS also CANVAS,GSAP ani
 I'm always open to collaboration and connecting with fellow developers. Feel free to reach out to me via the following channels:
 
 - Email: r.saksham17@gmal.com
-- LinkedIn: https://www.linkedin.com/in/saksham-saxena-ab0b3326b
+- LinkedIn: https://www.linkedin.com/in/saksham-saxenaaa
 
 Let's learn and grow together in the exciting field of AI & ML and Full Stack Development! Don't hesitate to explore my repositories, raise issues, or propose interesting projects for collaboration. Looking forward to connecting with you! 😄
